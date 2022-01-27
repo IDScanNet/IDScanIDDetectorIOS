@@ -1,6 +1,6 @@
 # IDScanIDDetector
 
-How to install **IDScanIDDetector** as a `Swift Package`, please [read here](https://github.com/IDScanNet/IDScanIDDetectorIOS#idscaniddetector)
+To install **IDScanIDDetector** as a `Swift Package`, please [read here](https://github.com/IDScanNet/IDScanIDDetectorIOS#idscaniddetector)
 
 ---
 
@@ -34,6 +34,6 @@ How to install **IDScanIDDetector** as a `Swift Package`, please [read here](htt
 
 ---
 
-### How to activate and use
+### How to Activate and Use
 
 Please [read here](https://github.com/IDScanNet/IDScanIDDetectorIOS#how-to-activate)

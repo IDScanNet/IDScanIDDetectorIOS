@@ -61,7 +61,7 @@ Then, in any target that depends on the detectors, add it to the `dependencies` 
 
 ### Installing as XCFramework (relevant for both Swift and Objective-C projects)
 
-How to install **IDScanIDDetector** as `XCFramework`, please [read here](https://github.com/IDScanNet/IDScanIDDetectorIOS/tree/master/Libs#idscaniddetector)
+To install **IDScanIDDetector** as `XCFramework`, please [read here](https://github.com/IDScanNet/IDScanIDDetectorIOS/tree/master/Libs#idscaniddetector)
 
 ---
 
@@ -69,7 +69,7 @@ How to install **IDScanIDDetector** as `XCFramework`, please [read here](https:/
 
 ### Obtaining a License Key for PDF Detector or MRZ Detector
 
-In order to receive the License Key send an email to support@idscan.net with the Bundle ID. Please be sure to provide your order number in the email once ready to upgrade from trial to production mode. A unique Serial number/Registration Key for this Bundle ID.
+In order to receive the License Key send an email to support@idscan.net with the Bundle ID. Please be sure to provide your order number in the email once ready to upgrade from trial to production mode. A unique Serial number/Registration Key is provided for this Bundle ID.
 
 ---
 
