@@ -61,7 +61,7 @@ Then, in any target that depends on the detectors, add it to the `dependencies` 
 
 ### Installing as XCFramework (relevant for both Swift and Objective-C projects)
 
-To install **IDScanIDDetector** as `XCFramework`, please [read here](https://github.com/IDScanNet/IDScanIDDetectorIOS/tree/master/Libs#idscaniddetector)
+To install **IDScanIDDetector** as `XCFramework`, please [read here](../../tree/master/Libs#installing-as-xcframework-relevant-for-both-swift-and-objective-c-projects)
 
 ---
 

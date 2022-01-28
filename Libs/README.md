@@ -1,12 +1,12 @@
 # IDScanIDDetector
 
-To install **IDScanIDDetector** as a `Swift Package`, please [read here](https://github.com/IDScanNet/IDScanIDDetectorIOS#idscaniddetector)
+To install **IDScanIDDetector** as a `Swift Package`, please [read here](../../../#installation)
 
 ---
 
 ## Installing as XCFramework (relevant for both Swift and Objective-C projects)
 
-1. [Download](https://github.com/IDScanNet/IDScanIDDetectorIOS/archive/master.zip) and unzip the archive with **IDScanIDDetector**.
+1. [Download](../../../archive/master.zip) and unzip the archive with **IDScanIDDetector**.
 
 ---
 
@@ -36,4 +36,4 @@ To install **IDScanIDDetector** as a `Swift Package`, please [read here](https:/
 
 ### How to Activate and Use
 
-Please [read here](https://github.com/IDScanNet/IDScanIDDetectorIOS#how-to-activate)
+Please [read here](../../../#how-to-activate)
