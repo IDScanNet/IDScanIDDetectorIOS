@@ -6,7 +6,7 @@ import PackageDescription
 let package = Package(
     name: "IDScanIDDetector",
     platforms: [
-        .iOS(.v9)
+        .iOS(.v12)
     ],
     products: [
         .library(
@@ -30,10 +30,6 @@ let package = Package(
             dependencies: [
                 "IDScanPDFDetector",
                 "IDScanMRZDetector"
-            ],
-            resources: [
-                .copy("PDFSample.png"),
-                .copy("MRZSample.png")
             ]
         ),
     ]
