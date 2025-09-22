@@ -4,13 +4,17 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>Frameworks/libPdf417WithPreprocess.dylib</key>
+		<data>
+		Eg2yA2gII+xtplcmhxCP6Vd7aZw=
+		</data>
 		<key>Headers/IDScanPDFDetector.h</key>
 		<data>
 		pS6rpQfIErUbvpBVuXYlLdpEV5Y=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		dSPfWO2bcoYJieCCOnhCYQoZxWA=
+		V0D0CUKoHCl4+XNwTT63EWS+p90=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -19,12 +23,15 @@
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>Frameworks/libPdf417WithPreprocess.dylib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ZwpU7ibUcoMr2VQgp7XgFSkTI9ycldmY00uZ+B/nQHM=
+			</data>
+		</dict>
 		<key>Headers/IDScanPDFDetector.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			pS6rpQfIErUbvpBVuXYlLdpEV5Y=
-			</data>
 			<key>hash2</key>
 			<data>
 			NMg5dxIcvszOH+/xK5Wt95Rx4a8Id74PdQE3lAOhkXY=
@@ -32,10 +39,6 @@
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			FOb8yAfI8Y9o93yGG6eAmY8fknI=
-			</data>
 			<key>hash2</key>
 			<data>
 			GBPINQdm/QpE3eM1Wfk42n24dZRMc4bzx/YRieW3/Mo=

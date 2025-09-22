@@ -10,7 +10,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		qta4bs/MRtldhIPIuLvXg1eWDL0=
+		PjfV5zvohpU64nAgWBzd65ZITyM=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -21,10 +21,6 @@
 	<dict>
 		<key>Headers/IDScanPDFDetector.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			pS6rpQfIErUbvpBVuXYlLdpEV5Y=
-			</data>
 			<key>hash2</key>
 			<data>
 			NMg5dxIcvszOH+/xK5Wt95Rx4a8Id74PdQE3lAOhkXY=
@@ -32,10 +28,6 @@
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			FOb8yAfI8Y9o93yGG6eAmY8fknI=
-			</data>
 			<key>hash2</key>
 			<data>
 			GBPINQdm/QpE3eM1Wfk42n24dZRMc4bzx/YRieW3/Mo=
