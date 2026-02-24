@@ -10,21 +10,17 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		jIn29byJQBYntAuAS1AjsJKBn48=
+		BpA4SWVzUt7hHRBF9Ic7uE5HkYo=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		kVSMSg04hxuhc4mUOWcOsKeAxuI=
+		ZYEoEqgnU71GrJEuHsX/p4+9Lxg=
 		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
 		<key>Headers/IDScanMRZDetector.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			M/g9Lqt/Fdna8+PKhi2i7lOLB98=
-			</data>
 			<key>hash2</key>
 			<data>
 			LcJulWx+PhhxivFp3dMlzxrd3nSfY3OnHBNghum7ngg=
@@ -32,13 +28,9 @@
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			kVSMSg04hxuhc4mUOWcOsKeAxuI=
-			</data>
 			<key>hash2</key>
 			<data>
-			DO5HohpFgCZ4qhbUZbFLYZgjDGAvU5XNHE9oP6S6eM8=
+			+Rox3Kfbp6jBF4JAH39GxYvAcolJTsFP8LuHyNhMLK4=
 			</data>
 		</dict>
 	</dict>
